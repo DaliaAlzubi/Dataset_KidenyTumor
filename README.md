@@ -9,6 +9,12 @@ This dataset contains **8,400 abdominal CT images** collected from **kidney pati
 
 There are **no segmentation masks** included with this dataset.
 
+## 🗂️ Dataset Download
+
+You can download the full dataset from the link below:
+
+🔗 [Download Kidney CT Dataset (Drive)] (https://drive.google.com/file/d/1uWCZrubp0qkzTVIZgI8wc0m8N2yeeWA4/view?usp=sharing)
+
 ## 📌 Dataset Details
 - **Image Size:** 512×512 pixels
 - **Format:** JPEG (.jpg)
