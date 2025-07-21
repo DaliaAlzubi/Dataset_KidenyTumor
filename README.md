@@ -49,4 +49,3 @@ The dataset used in this master thesis, *Kidney Tumor Detection and Segmentation
   year={2022},
   publisher={Wiley Online Library}
 }
-
