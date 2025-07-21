@@ -38,6 +38,7 @@ The dataset used in this master thesis, *Kidney Tumor Detection and Segmentation
 
 ## 📝 Citations
 
+```bibtex
 @article{alzu2022kidney,
   title={Kidney tumor detection and classification based on deep learning approaches: a new dataset in CT scans},
   author={Alzu’bi, Dalia and Abdullah, Malak and Hmeidi, Ismail and AlAzab, Rami and Gharaibeh, Maha and El-Heis, Mwaffaq and Almotairi, Khaled H and Forestiero, Agostino and Hussein, Ahmad MohdAziz and Abualigah, Laith},
