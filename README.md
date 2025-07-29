@@ -21,8 +21,8 @@ You can download the full dataset from the link below:
 - **Image Size:** 512×512 pixels
 - **Format:** JPEG (.jpg)
 - **Preprocessed:** Converted from DICOM to JPEG
-- **Data Author:** Dalia Alzu'bi
-- **Collected from:** King Abdullah University Hospital (KAUH), Jordan
+- **Collected by:** Dalia Alzu'bi
+- **Collected from:** King Abdullah University Hospital (**KAUH**), Jordan
 
 ## ⚠️ Important Notes
 - This dataset does **not contain any patient-identifiable information (PHI)**.
