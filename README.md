@@ -1,4 +1,4 @@
-# Kidney CT Dataset 2021
+# (KAUH Dataset) Kidney CT Dataset 2021
 
 This dataset contains **8,400 abdominal CT images** collected from **kidney patients** with a variety of conditions, including:
 
@@ -17,6 +17,7 @@ You can download the full dataset from the link below:
 - 70 images per patient, covering 120 patients. Image files are ordered by patient ID from 1 to 120. A metadata Excel file is provided, which may be helpful for segmentation tasks (e.g., identifying tumor regions or other annotations) (https://drive.google.com/file/d/1ZX8cOD829uxfPczOCBODaFmel9NwABJK/view?usp=sharing) 
   
 ## 📌 Dataset Details
+- **Dataset name**: (**KAUH**)
 - **Image Size:** 512×512 pixels
 - **Format:** JPEG (.jpg)
 - **Preprocessed:** Converted from DICOM to JPEG
