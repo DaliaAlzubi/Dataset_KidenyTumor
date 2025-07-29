@@ -22,7 +22,7 @@ You can download the full dataset from the link below:
 - **Format:** JPEG (.jpg)
 - **Preprocessed:** Converted from DICOM to JPEG
 - **Collected by:** Dalia Alzu'bi
-- **Collected from:** King Abdullah University Hospital (**KAUH**), Jordan
+- **Collected from:** King Abdullah University Hospital (**KAUH**), Jordan, https://www.kauh.edu.jo/Home 
 
 ## ⚠️ Important Notes
 - This dataset does **not contain any patient-identifiable information (PHI)**.
