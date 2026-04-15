@@ -14,8 +14,8 @@ $${\color{red} \textbf{There are **8,400** original images + **8,400** correspon
 
 You can download the full dataset from the link below:
 
-🔗 [Download Kidney CT Dataset (Drive)] (https://drive.google.com/file/d/1uWCZrubp0qkzTVIZgI8wc0m8N2yeeWA4/view?usp=sharing)
-- 70 images per patient, covering 120 patients. Image files are ordered by patient ID from 1 to 120. A metadata Excel file is provided, which may be helpful for segmentation tasks (e.g., identifying tumor regions or other annotations) (https://drive.google.com/file/d/1ZX8cOD829uxfPczOCBODaFmel9NwABJK/view?usp=sharing) 
+🔗 [Download Kidney CT Dataset (Drive)] (https://drive.google.com/file/d/1ceTpUUJes73XDRe3BeVo2utVrWlnd-u_/view?usp=sharing)
+- 70 images per patient, covering 120 patients. Image files are ordered by patient ID from 1 to 120. A metadata Excel file is provided, which may be helpful for segmentation tasks (e.g., identifying tumor regions or other annotations) 
   
 ## 📌 Dataset Details
 - **Dataset name**: (**KAUH**)
