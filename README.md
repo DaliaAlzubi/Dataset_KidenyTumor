@@ -7,8 +7,8 @@ This dataset contains **8,400 abdominal CT images** collected from **kidney pati
 - Renal cysts
 - Other abnormalities
 
-The dataset includes ground truth segmentation masks for the kidney regions (and/or tumors where applicable).
-There are 8,400 original images + 8,400 corresponding masked/segmentation mask images.
+$${\color{red} \textbf{The dataset includes ground truth segmentation masks for the kidney regions (and/or tumors where applicable).}}$$
+$${\color{red} \textbf{There are 8,400 original images + 8,400 corresponding masked/segmentation mask images.}}$$
 
 ## 🗂️ Dataset Download
 
@@ -44,7 +44,7 @@ The dataset used in this master thesis, *Kidney Tumor Detection and Segmentation
 - Alzu'bi, Dalia, et al. "Logistic regression classification for assessing the risk of kidney tumor." *2023 2nd International Engineering Conference on Electrical, Energy, and Artificial Intelligence (EICEEAI)*, 2023, IEEE, pp. 1-9.
 
 ---
-## Dataset Citation 
+## ⚠️ Dataset Citation 
 
 
 If you use this dataset in your research, project, or publication, you must cite the following paper:
