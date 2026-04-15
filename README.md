@@ -8,7 +8,7 @@ This dataset contains **8,400 abdominal CT images** collected from **kidney pati
 - Other abnormalities
 
 $${\color{red} \textbf{The dataset includes ground truth segmentation masks for the kidney regions (and/or tumors where applicable).}}$$
-$${\color{red} \textbf{There are 8,400 original images + 8,400 corresponding masked/segmentation mask images.}}$$
+$${\color{red} \textbf{There are **8,400** original images + **8,400** corresponding masked/segmentation mask images.}}$$
 
 ## 🗂️ Dataset Download
 
